@@ -10,3 +10,30 @@
     line-height: 2.5;
     text-shadow: 5px 5px 5px rgb(151, 149, 149);
  }
+
+ 
+h5
+{
+    background-color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    height: 75px;
+    text-align: center;
+    padding: 10px;
+    width: 35px;
+}
+
+b
+{
+    color: purple;
+}
+
+span
+{
+    color: red;
+}
+
+h5
+{
+   left: 440px;
+}
